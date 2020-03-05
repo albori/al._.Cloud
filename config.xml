@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Al._.Cloud</name>
+
+  <description>
+      Al._.Cloud Новая эпоха для бизнеса
+  </description>
+
+  <author href="http://albori.ml" email="albori280@gmail.com">
+      Albori
+  </author>
+  <icon src="index.jpg" platform="android" density="ldpi">
+</icon>
+<access origin="http://192.168.43.166" />
+<access uri="*" subdomains="true" />
+</widget>
